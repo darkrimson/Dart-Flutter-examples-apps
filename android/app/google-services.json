@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "705922554900",
+    "firebase_url": "https://fir-test-b00a1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-test-b00a1",
+    "storage_bucket": "fir-test-b00a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705922554900:android:8ea179fbfe10889aff1b01",
+        "android_client_info": {
+          "package_name": "com.example.calorie_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705922554900-8bp98hdgan56ts0ipmkqo5sbh6oag5tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcHVB-t2zOw7GBEvui6IkpDtx6Mn7aapU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705922554900-8bp98hdgan56ts0ipmkqo5sbh6oag5tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
