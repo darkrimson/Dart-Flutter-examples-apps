@@ -1,0 +1,4 @@
+#Fri Mar 31 21:47:10 MSK 2023
+base.0=C\:\\Users\\ADAM\\Desktop\\Apps\\hacker_cmdd\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
